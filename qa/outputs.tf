@@ -1,3 +1,3 @@
 output "environmnent_url" {
-    value = module.qa.environmnent_url
+    value = module.qa.environment_url
 }
